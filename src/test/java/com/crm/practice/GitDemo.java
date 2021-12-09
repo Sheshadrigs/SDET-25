@@ -6,5 +6,6 @@ public class GitDemo {
 @Test
 public void gitDemo() {
 	System.out.println("welcome to github");
+	System.out.println("pull");
 }
 }
